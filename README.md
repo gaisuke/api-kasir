@@ -2,7 +2,7 @@
 
 ## Langkah-langkah
 
-1. Clone project ```https://github.com/brianrizqi/order-api.git```
+1. Clone project ```https://github.com/gaisuke/api-kasir.git```
 2. Install vendor
    ```composer install```
 3. Copy .env.example menjadi .env
